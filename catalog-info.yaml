@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "shea-react"
+  description: "Shea's Backstage React App"
+  annotations:
+    github.com/project-slug: sheaphillips/backstage-react-app
+    backstage.io/techdocs-ref: url:https://github.com/sheaphillips/backstage-react-app
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "sheaphillips"

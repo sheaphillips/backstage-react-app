@@ -1,0 +1,8 @@
+site_name: "shea-react"
+site_description: "Shea's Backstage React App"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
